@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prajna S G</h1>
 <h3 align="center">A versatile tech talent.</h3>
 
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1428359/screenshots/4789906/media/1efcc5526ec7cd758b5537e84217b21c.gif">
+<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1428359/screenshots/4789906/media/1efcc5526ec7cd758b5537e84217b21c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajnasg01&label=Profile%20views&color=0e75b6&style=flat" alt="prajnasg01" /> </p>
 
